@@ -23,5 +23,5 @@ dependencyResolutionManagement {
 rootProject.name = "eventqueue"
 
 include(
-
+    "eventqueue-common",
 )
