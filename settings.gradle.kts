@@ -25,4 +25,5 @@ rootProject.name = "eventqueue"
 include(
     "eventqueue-common",
     "eventqueue-livedata",
+    "eventqueue-flow",
 )
