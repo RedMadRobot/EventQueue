@@ -26,4 +26,5 @@ include(
     "eventqueue-common",
     "eventqueue-livedata",
     "eventqueue-flow",
+    "eventqueue-compose",
 )
